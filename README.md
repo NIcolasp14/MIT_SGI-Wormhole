@@ -11,4 +11,4 @@ How to run:
 * source gp/bin/activate (activate python env, which contains the packages)
 * python3 file.py
 
-Note: After SDF combinations (via min, max, etc.) I oftentimes eliminate the negative sign, so the the SDFs become UDFs.
+Note: After SDF combinations (via min, max, etc.) the negative sign is often eliminated, so the SDFs become UDFs.
