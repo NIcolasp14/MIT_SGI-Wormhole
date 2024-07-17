@@ -10,3 +10,5 @@ How to run:
 * conda deactivate (if you have base activated by default)
 * source gp/bin/activate (activate python env, which contains the packages)
 * python3 file.py
+
+Note: After SDF combinations (via min, max, etc.) I oftentimes eliminate the negative sign, so the the SDFs become UDFs.
