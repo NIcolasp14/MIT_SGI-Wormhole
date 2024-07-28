@@ -11,4 +11,6 @@ How to run:
 * source gp/bin/activate (activate python env, which contains the packages)
 * python3 file.py
 
-Note: After SDF combinations (via min, max, etc.) the negative sign is often eliminated, so the SDFs become UDFs.
+For more see the blog posts:  
+* https://summergeometry.org/sgi2024/wormhole-i/
+*
