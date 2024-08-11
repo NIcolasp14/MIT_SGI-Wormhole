@@ -13,4 +13,6 @@ How to run:
 
 For more see the blog posts:  
 * https://summergeometry.org/sgi2024/wormhole-i/
-*
+* TBD
+
+Note: The "sdf" used in the names of variables in the scripts are meant to be df (distance fields). For details see the blog post 2 provided above.
